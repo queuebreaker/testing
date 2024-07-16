@@ -1,7 +1,7 @@
- /* 8 normal colors */
+/* 8 normal colors */
   [0] = "#444444", /* black   */
   [1] = "#ff7f7f", /* red     */
-  [2] = "#7fff7f", /* green   */
+  [2] = "#69d2b1", /* green   */
   [3] = "#ff7fcc", /* yellow  */
   [4] = "#7fe3ff", /* blue    */
   [5] = "#ff7fff", /* magenta */
@@ -11,14 +11,9 @@
   /* 8 bright colors */
   [8]  = "#808080", /* black   */
   [9]  = "#ff0000", /* red     */
-  [10] = "#33ff00", /* green   */
+  [10] = "#00a359", /* green   */
   [11] = "#ff0099", /* yellow  */
   [12] = "#0064ff", /* blue    */
   [13] = "#cc00ff", /* magenta */
   [14] = "#00ffff", /* cyan    */
   [15] = "#ffffff", /* white   */
-
-  /* special colors */
-  [256] = "#000000", /* background */
-  [257] = "#d0d0d0", /* foreground */
-};
